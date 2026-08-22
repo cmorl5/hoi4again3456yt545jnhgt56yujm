@@ -1,0 +1,110 @@
+{
+  "source_size": [
+    5632,
+    2048
+  ],
+  "texture_size": [
+    4096,
+    2048
+  ],
+  "tiles_x": 4,
+  "tiles_y": 2,
+  "tile_size": 1024,
+  "tiles": [
+    {
+      "index": 0,
+      "row": 0,
+      "col": 0,
+      "file": "tile_r0_c0.png"
+    },
+    {
+      "index": 1,
+      "row": 0,
+      "col": 1,
+      "file": "tile_r0_c1.png"
+    },
+    {
+      "index": 2,
+      "row": 0,
+      "col": 2,
+      "file": "tile_r0_c2.png"
+    },
+    {
+      "index": 3,
+      "row": 0,
+      "col": 3,
+      "file": "tile_r0_c3.png"
+    },
+    {
+      "index": 4,
+      "row": 1,
+      "col": 0,
+      "file": "tile_r1_c0.png"
+    },
+    {
+      "index": 5,
+      "row": 1,
+      "col": 1,
+      "file": "tile_r1_c1.png"
+    },
+    {
+      "index": 6,
+      "row": 1,
+      "col": 2,
+      "file": "tile_r1_c2.png"
+    },
+    {
+      "index": 7,
+      "row": 1,
+      "col": 3,
+      "file": "tile_r1_c3.png"
+    }
+  ],
+  "province_count": 13413,
+  "provinces_lost_in_resize": [],
+  "border_pixels": 1100912,
+  "borders_excluded": false,
+  "span_files": [
+    {
+      "tile": 0,
+      "file": "spans_tile_0.json",
+      "kb": 576.4
+    },
+    {
+      "tile": 1,
+      "file": "spans_tile_1.json",
+      "kb": 676.4
+    },
+    {
+      "tile": 2,
+      "file": "spans_tile_2.json",
+      "kb": 1209.4
+    },
+    {
+      "tile": 3,
+      "file": "spans_tile_3.json",
+      "kb": 670.1
+    },
+    {
+      "tile": 4,
+      "file": "spans_tile_4.json",
+      "kb": 393.4
+    },
+    {
+      "tile": 5,
+      "file": "spans_tile_5.json",
+      "kb": 632.9
+    },
+    {
+      "tile": 6,
+      "file": "spans_tile_6.json",
+      "kb": 654.9
+    },
+    {
+      "tile": 7,
+      "file": "spans_tile_7.json",
+      "kb": 698.2
+    }
+  ],
+  "span_format": "{ provinceId: [[y, x, length], ...] } in tile-local pixels"
+}
